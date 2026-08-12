@@ -6,3 +6,4 @@ Remote developer change
 =======
 Another local change
 >>>>>>> 6474fb4 (Add second local change)
+Question 2 feature
